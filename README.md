@@ -1,2 +1,1 @@
-# SupplyChain_Insights-
-Exploratory Data Analysis (EDA) project showcasing data cleaning, visualization, and insights generation with interactive dashboards. Includes step-by-step workflow, plots, and storytelling for better understanding of patterns and trends.
+A data-driven Exploratory Data Analysis (EDA) project where I cleaned and analyzed a real dataset, explored patterns and correlations, and created interactive visualizations to uncover meaningful insights and trends.
